@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #003366;
+    color: #fff;
+
+}
+
+.canvas-container {
+    display: flex;
+    flex-direction: column;
+    /* Asegura que el contenedor también use flexbox */
+    justify-content: center;
+    /* Centra el canvas dentro del contenedor */
+    align-items: center;
+    /* Alinea verticalmente el canvas dentro del contenedor */
+}
