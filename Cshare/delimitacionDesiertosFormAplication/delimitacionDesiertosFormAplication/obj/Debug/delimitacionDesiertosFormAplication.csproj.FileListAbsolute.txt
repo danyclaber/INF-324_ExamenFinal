@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\INF - 324\Examen-Final\Cshare\delimitacionDesiertosFormAplication\delimitacionDesiertosFormAplication\bin\Debug\delimitacionDesiertosFormAplication.exe.config
+C:\Users\Daniel\Desktop\INF - 324\Examen-Final\Cshare\delimitacionDesiertosFormAplication\delimitacionDesiertosFormAplication\bin\Debug\delimitacionDesiertosFormAplication.exe
+C:\Users\Daniel\Desktop\INF - 324\Examen-Final\Cshare\delimitacionDesiertosFormAplication\delimitacionDesiertosFormAplication\bin\Debug\delimitacionDesiertosFormAplication.pdb
+C:\Users\Daniel\Desktop\INF - 324\Examen-Final\Cshare\delimitacionDesiertosFormAplication\delimitacionDesiertosFormAplication\obj\Debug\delimitacionDesiertosFormAplication.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\INF - 324\Examen-Final\Cshare\delimitacionDesiertosFormAplication\delimitacionDesiertosFormAplication\obj\Debug\delimitacionDesiertosFormAplication.Form1.resources
+C:\Users\Daniel\Desktop\INF - 324\Examen-Final\Cshare\delimitacionDesiertosFormAplication\delimitacionDesiertosFormAplication\obj\Debug\delimitacionDesiertosFormAplication.Properties.Resources.resources
+C:\Users\Daniel\Desktop\INF - 324\Examen-Final\Cshare\delimitacionDesiertosFormAplication\delimitacionDesiertosFormAplication\obj\Debug\delimitacionDesiertosFormAplication.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\INF - 324\Examen-Final\Cshare\delimitacionDesiertosFormAplication\delimitacionDesiertosFormAplication\obj\Debug\delimitacionDesiertosFormAplication.exe
+C:\Users\Daniel\Desktop\INF - 324\Examen-Final\Cshare\delimitacionDesiertosFormAplication\delimitacionDesiertosFormAplication\obj\Debug\delimitacionDesiertosFormAplication.pdb
